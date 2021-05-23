@@ -1,0 +1,5 @@
+model/
+_pycache__/
+data_science/.ipynb_checkpoints/
+.idea/
+*.pyc
